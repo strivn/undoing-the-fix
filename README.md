@@ -8,4 +8,4 @@ We propose **CVE regression** as a control setting where the attack is removing 
 
 Main experiment notebook: [`experiment/run.ipynb`](experiment/run.ipynb)
 
-This is a weekend hackathon prototype with various limitations (chat completions instead of agentic execution, no main task verification, single repository, disjoint file scope). See the paper for details and future work.
+This is a weekend hackathon prototype with various limitations (chat completions instead of agentic execution, no main task verification, single repository, disjoint file scope). See the [project page](https://apartresearch.com/project/undoing-the-fix-cve-regression-as-an-ai-control-setting-f855) and [paper](https://framerforms.s3.us-east-1.amazonaws.com/form-uploads/baf7aa79-8ab4-4310-b0d2-ad89838d1536-Undoing-the-Fix-Report.pdf) for details and future work.
